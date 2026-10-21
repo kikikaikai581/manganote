@@ -1,0 +1,13 @@
+{
+  "name": "まんがノート - 漫画管理",
+  "short_name": "まんがノート",
+  "description": "端末内保存・オフライン対応の漫画管理アプリ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f6fb",
+  "theme_color": "#6d4aff",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
