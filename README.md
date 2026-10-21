@@ -1,0 +1,2 @@
+# manganote
+manga.note
